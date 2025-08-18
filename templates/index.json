@@ -1,1 +1,139 @@
-{"sections":{"slideshow_qNJRkn":{"type":"slideshow","blocks":{"slide_9r66BG":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Bild_2025-06-01_um_11.10.50_f7f70a0d.jpg","heading":"","heading_size":"h2","subheading":"","button_label":"Shop","link":"shopify:\/\/collections\/all","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"scheme-5","text_alignment_mobile":"center"}},"slide_BinGgk":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Bild_2025-06-01_um_11.18.42_10f64438.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"Sale","link":"shopify:\/\/collections\/sale","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"scheme-5","text_alignment_mobile":"center"}}},"block_order":["slide_9r66BG","slide_BinGgk"],"custom_css":[".banner {min-height: revert; aspect-ratio: 16 \/ 9; max-height: 800px; min-height: 300px;}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":true,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":"Slideshow zu deiner Marke"}},"collection_list_bkdQEW":{"type":"collection-list","blocks":{"featured_collection_QJeRDV":{"type":"featured_collection","settings":{"collection":"nhl"}},"featured_collection_YJPwrN":{"type":"featured_collection","settings":{"collection":"nba"}},"featured_collection_eL8yVP":{"type":"featured_collection","settings":{"collection":"nfl"}},"featured_collection_TjP4Hb":{"type":"featured_collection","settings":{"collection":"mlb"}},"featured_collection_iU7njr":{"type":"featured_collection","settings":{"collection":"milb"}},"featured_collection_8G47G9":{"type":"featured_collection","settings":{"collection":"ncaa"}}},"block_order":["featured_collection_QJeRDV","featured_collection_YJPwrN","featured_collection_eL8yVP","featured_collection_TjP4Hb","featured_collection_iU7njr","featured_collection_8G47G9"],"custom_css":[".media > img {object-fit: contain;}"],"settings":{"title":"Unsere Produkte","heading_size":"h1","image_ratio":"square","columns_desktop":4,"color_scheme":"scheme-1","show_view_all":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["slideshow_qNJRkn","collection_list_bkdQEW"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_qNJRkn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_9r66BG": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/die-jerseys-und-das-cap-gleichm-ssiger-auf-der-reihe-verteilen-aber-von-der-optik-her-genau-so-lassen-die-berschrift-auf-eine-linie.png",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-5"
+          }
+        },
+        "slide_BinGgk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Bild_2025-06-01_um_11.18.42_10f64438.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Sale",
+            "link": "shopify://collections/sale",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-5"
+          }
+        }
+      },
+      "block_order": [
+        "slide_9r66BG",
+        "slide_BinGgk"
+      ],
+      "custom_css": [
+        ".banner {min-height: revert; aspect-ratio: 16 / 9; max-height: 800px; min-height: 300px;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow zu deiner Marke"
+      }
+    },
+    "collection_list_bkdQEW": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_QJeRDV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nhl"
+          }
+        },
+        "featured_collection_YJPwrN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nba"
+          }
+        },
+        "featured_collection_eL8yVP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nfl"
+          }
+        },
+        "featured_collection_TjP4Hb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mlb"
+          }
+        },
+        "featured_collection_iU7njr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "milb"
+          }
+        },
+        "featured_collection_8G47G9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ncaa"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_QJeRDV",
+        "featured_collection_YJPwrN",
+        "featured_collection_eL8yVP",
+        "featured_collection_TjP4Hb",
+        "featured_collection_iU7njr",
+        "featured_collection_8G47G9"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "title": "Unsere Produkte",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_qNJRkn",
+    "collection_list_bkdQEW"
+  ]
+}
