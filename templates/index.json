@@ -32,6 +32,7 @@
         },
         "slide_BinGgk": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/die-schrift-auf-dem-nhl-jersey-gleich-wie-auf-den-anderen-jersey-der-rest-genau-so-lassen.png",
             "image_overlay_opacity": 0,
